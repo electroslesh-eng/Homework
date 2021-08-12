@@ -1,9 +1,8 @@
-package com.example.myhomework.gallery
+package com.example.myhomework
 
 import android.os.Bundle
 import androidx.appcompat.app.AppCompatActivity
 import androidx.viewpager.widget.ViewPager
-import com.example.myhomework.R
 import com.example.myhomework.gallery.adapter.MyAdapter
 
 class MainActivity : AppCompatActivity() {
